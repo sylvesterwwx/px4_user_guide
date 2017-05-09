@@ -31,7 +31,7 @@ with the arrow points towards the front of the vehicle.
 
 ## Buzzer and Safety Switch
 
-Connect the included buzzer and safety switch as shown below (these are mandatory).
+Connect the included buzzer and safety switch as shown below (these are recommended).
 
 ![Pixhawk mounting and orientation](../../images/pixhawk_3dr_buzzer_and_safety_switch.jpg)
 
